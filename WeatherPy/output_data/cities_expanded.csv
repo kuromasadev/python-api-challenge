@@ -1,0 +1,582 @@
+City_ID,City,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Country,Date,Humidity Category,Cloudiness Category,Wind Category
+0,adamstown,-25.066,-130.1015,25.200000000000045,78,5,4.61,PN,1682458290,Uncomfortable,Sunny/Clear,Gentle breeze
+1,isafjordur,66.0755,-23.124,-1.0699999999999932,58,7,2.83,IS,1682458184,Uncomfortable,Sunny/Clear,Light breeze
+2,puerto ayora,-0.7393,-90.3518,28.980000000000018,88,31,2.68,EC,1682458291,Uncomfortable,Partly cloudy,Light breeze
+3,remire-montjoly,4.9167,-52.2667,26.02000000000004,89,75,1.54,GF,1682458202,Uncomfortable,Mostly cloudy,Light breeze
+4,longyearbyen,78.2186,15.6401,-7.089999999999975,79,0,1.54,SJ,1682458292,Uncomfortable,Sunny/Clear,Light breeze
+5,lerwick,60.1545,-1.1494,2.0,68,79,8.9,GB,1682458292,Uncomfortable,Mostly cloudy,Fresh breeze
+6,pechora,65.1472,57.2244,-8.339999999999975,98,38,1.22,RU,1682458293,Uncomfortable,Partly cloudy,Light air
+7,papatowai,-46.5619,169.4708,9.79000000000002,72,89,7.37,NZ,1682458293,Uncomfortable,Mostly cloudy,Moderate breeze
+8,punta arenas,-53.15,-70.9167,8.060000000000002,61,75,7.72,CL,1682458168,Uncomfortable,Mostly cloudy,Moderate breeze
+9,callao,-12.0667,-77.15,26.160000000000025,69,0,6.17,PE,1682458143,Uncomfortable,Sunny/Clear,Moderate breeze
+10,albany,42.6001,-73.9662,11.920000000000016,50,99,1.87,US,1682458268,Comfortable,Overcast,Light breeze
+11,crane,31.3974,-102.3501,29.090000000000032,15,0,3.82,US,1682458296,Comfortable,Sunny/Clear,Gentle breeze
+12,vorgashor,67.5833,63.95,-12.92999999999995,99,64,3.67,RU,1682458296,Uncomfortable,Partly sunny,Gentle breeze
+13,puerto natales,-51.7236,-72.4875,9.25,49,20,7.72,CL,1682458178,Comfortable,Fair,Moderate breeze
+14,waitangi,-43.9535,-176.5597,11.57000000000005,92,100,0.89,NZ,1682458297,Uncomfortable,Overcast,Light air
+15,ushuaia,-54.8,-68.3,5.810000000000002,70,75,1.03,AR,1682458297,Uncomfortable,Mostly cloudy,Light air
+16,edinburgh of the seven seas,-37.0676,-12.3116,14.950000000000045,65,85,12.16,SH,1682458299,Uncomfortable,Mostly cloudy,Strong breeze
+17,bethel,41.3712,-73.414,14.450000000000045,45,100,3.09,US,1682458300,Comfortable,Overcast,Gentle breeze
+18,ciudad lazaro cardenas,17.9583,-102.2,28.700000000000045,57,4,6.07,MX,1682458301,Uncomfortable,Sunny/Clear,Moderate breeze
+19,susuman,62.7833,148.1667,-7.2999999999999545,92,97,1.09,RU,1682458302,Uncomfortable,Overcast,Light air
+20,kone,-21.0595,164.8658,24.99000000000001,79,100,1.36,NC,1682458303,Uncomfortable,Overcast,Light air
+21,dudinka,69.4058,86.1778,-0.20999999999997954,98,100,3.43,RU,1682458303,Uncomfortable,Overcast,Gentle breeze
+22,blackmans bay,-43.0167,147.3167,13.07000000000005,79,0,2.18,AU,1682458303,Uncomfortable,Sunny/Clear,Light breeze
+23,olonkinbyen,70.9221,-8.7187,-3.6899999999999977,69,99,4.98,SJ,1682458304,Uncomfortable,Overcast,Gentle breeze
+24,okhotsk,59.3833,143.3,-0.67999999999995,96,100,2.88,RU,1682458304,Uncomfortable,Overcast,Light breeze
+25,xining,36.6167,101.7667,6.6200000000000045,25,1,0.69,CN,1682458305,Comfortable,Sunny/Clear,Light air
+26,st. john's,47.5649,-52.7093,2.660000000000025,96,100,8.94,CA,1682458156,Uncomfortable,Overcast,Fresh breeze
+27,hermanus,-34.4187,19.2345,15.330000000000041,80,31,2.77,ZA,1682458305,Uncomfortable,Partly cloudy,Light breeze
+28,mo i rana,66.3128,14.1428,0.7400000000000091,88,100,1.54,NO,1682458287,Uncomfortable,Overcast,Light breeze
+29,tura,25.5198,90.2201,22.720000000000027,44,57,1.0,IN,1682458306,Comfortable,Partly cloudy,Light air
+30,grytviken,-54.2811,-36.5092,4.930000000000007,92,82,5.51,GS,1682458306,Uncomfortable,Mostly cloudy,Moderate breeze
+31,chetwayi,10.5333,76.05,24.629999999999995,82,100,1.97,IN,1682458307,Uncomfortable,Overcast,Light breeze
+32,arica,-18.475,-70.3042,23.75,68,0,4.63,CL,1682458281,Uncomfortable,Sunny/Clear,Gentle breeze
+33,sirte,31.2089,16.5887,21.100000000000023,37,0,4.32,LY,1682458307,Comfortable,Sunny/Clear,Gentle breeze
+34,saipan,15.1355,145.701,27.58000000000004,100,20,7.72,MP,1682458308,Uncomfortable,Fair,Moderate breeze
+35,codrington,-38.2667,141.9667,15.160000000000025,70,50,3.67,AU,1682458308,Uncomfortable,Partly cloudy,Gentle breeze
+36,port-aux-francais,-49.35,70.2167,4.689999999999998,82,10,12.86,TF,1682458308,Uncomfortable,Sunny/Clear,Strong breeze
+37,yellowknife,62.456,-114.3525,6.2900000000000205,52,75,5.14,CA,1682458309,Comfortable,Mostly cloudy,Moderate breeze
+38,tiksi,71.6872,128.8694,-15.879999999999995,100,100,1.16,RU,1682458190,Uncomfortable,Overcast,Light air
+39,margaret river,-33.95,115.0667,15.870000000000005,74,100,8.46,AU,1682458201,Uncomfortable,Overcast,Fresh breeze
+40,lebu,-37.6167,-73.65,14.0,82,100,3.34,CL,1682458230,Uncomfortable,Overcast,Gentle breeze
+41,vilyuchinsk,52.9306,158.4028,4.150000000000034,79,61,3.51,RU,1682458180,Uncomfortable,Partly sunny,Gentle breeze
+42,new norfolk,-42.7826,147.0587,13.720000000000027,70,0,1.36,AU,1682458311,Uncomfortable,Sunny/Clear,Light air
+43,panadura,6.7132,79.9026,26.170000000000016,86,100,1.59,LK,1682458312,Uncomfortable,Overcast,Light breeze
+44,carnarvon,-24.8667,113.6333,16.660000000000025,66,0,6.85,AU,1682458312,Uncomfortable,Sunny/Clear,Moderate breeze
+45,mingora,34.7758,72.3625,16.810000000000002,54,76,3.0,PK,1682458313,Comfortable,Mostly cloudy,Light breeze
+46,coquimbo,-29.9533,-71.3436,14.850000000000023,88,75,4.12,CL,1682458191,Uncomfortable,Mostly cloudy,Gentle breeze
+47,thompson,55.7435,-97.8558,9.090000000000032,29,20,2.57,CA,1682458313,Comfortable,Fair,Light breeze
+48,spring creek,40.7266,-115.5859,12.939999999999998,35,3,2.03,US,1682458314,Comfortable,Sunny/Clear,Light breeze
+49,kristiansund,63.1115,7.732,1.3600000000000136,93,75,2.06,NO,1682458314,Uncomfortable,Mostly cloudy,Light breeze
+50,fale old settlement,-9.3852,-171.2468,29.100000000000023,73,74,5.95,TK,1682458314,Uncomfortable,Mostly cloudy,Moderate breeze
+51,cooma,-36.2333,149.1333,9.75,71,61,0.68,AU,1682458315,Uncomfortable,Partly sunny,Light air
+52,mahina,-17.5065,-149.489,27.870000000000005,78,75,4.12,PF,1682458046,Uncomfortable,Mostly cloudy,Gentle breeze
+53,arac,41.2422,33.3277,9.770000000000039,62,56,1.53,TR,1682458315,Uncomfortable,Partly cloudy,Light breeze
+54,cannonvale,-20.2833,148.7,20.660000000000025,78,63,7.28,AU,1682458315,Uncomfortable,Partly sunny,Moderate breeze
+55,petropavlovsk-kamchatsky,53.0452,158.6483,3.330000000000041,56,75,1.0,RU,1682458226,Uncomfortable,Mostly cloudy,Light air
+56,udachny,66.4167,112.4,-8.229999999999961,95,100,3.07,RU,1682458316,Uncomfortable,Overcast,Gentle breeze
+57,kisangani,0.5167,25.2,20.810000000000002,98,87,1.32,CD,1682458317,Uncomfortable,Mostly cloudy,Light air
+58,queenstown,-31.8976,26.8753,14.210000000000036,88,61,1.15,ZA,1682458317,Uncomfortable,Partly sunny,Light air
+59,nyurba,63.2842,118.3319,-5.009999999999991,96,100,0.12,RU,1682458318,Uncomfortable,Overcast,Calm
+60,enewetak,11.3474,162.3373,26.75,82,99,7.89,MH,1682458318,Uncomfortable,Overcast,Moderate breeze
+61,geraldton,-28.7667,114.6,16.230000000000018,67,75,3.6,AU,1682458184,Uncomfortable,Mostly cloudy,Gentle breeze
+62,san patricio,28.017,-97.5169,26.05000000000001,72,86,7.1,US,1682458319,Uncomfortable,Mostly cloudy,Moderate breeze
+63,mildura,-34.2,142.15,18.08000000000004,54,92,5.4,AU,1682458267,Comfortable,Overcast,Moderate breeze
+64,taltal,-25.4,-70.4833,18.810000000000002,81,24,2.99,CL,1682458320,Uncomfortable,Mostly sunny,Light breeze
+65,novo aripuana,-5.1206,-60.3797,24.53000000000003,95,87,1.31,BR,1682458320,Uncomfortable,Mostly cloudy,Light air
+66,port elizabeth,-33.918,25.5701,19.620000000000005,95,100,2.06,ZA,1682458320,Uncomfortable,Overcast,Light breeze
+67,bredasdorp,-34.5322,20.0403,14.650000000000034,83,8,1.11,ZA,1682458196,Uncomfortable,Sunny/Clear,Light air
+68,brough,53.7,-0.5833,5.340000000000032,78,80,0.45,GB,1682458322,Uncomfortable,Mostly cloudy,Calm
+69,hamilton,39.1834,-84.5333,16.80000000000001,38,75,2.06,US,1682458272,Comfortable,Mostly cloudy,Light breeze
+70,toamasina,-18.1667,49.3833,24.120000000000005,88,39,3.48,MG,1682458323,Uncomfortable,Partly cloudy,Gentle breeze
+71,gonabad,34.3529,58.6837,22.510000000000048,24,84,4.01,IR,1682458324,Comfortable,Mostly cloudy,Gentle breeze
+72,greeley,40.4233,-104.7091,12.660000000000025,67,71,0.89,US,1682458053,Uncomfortable,Mostly cloudy,Light air
+73,wailua homesteads,22.0669,-159.378,27.24000000000001,70,100,7.2,US,1682458325,Uncomfortable,Overcast,Moderate breeze
+74,karratha,-20.7377,116.8463,24.53000000000003,44,100,3.02,AU,1682458325,Comfortable,Overcast,Gentle breeze
+75,papao,-17.75,-149.55,27.82000000000005,84,100,6.35,PF,1682458325,Uncomfortable,Overcast,Moderate breeze
+76,georgetown,5.4112,100.3354,26.960000000000036,94,20,1.03,MY,1682458199,Uncomfortable,Fair,Light air
+77,badger,64.8,-147.5333,1.1100000000000136,45,40,4.12,US,1682458326,Comfortable,Partly cloudy,Gentle breeze
+78,tazovsky,67.4667,78.7,-11.149999999999977,98,100,3.4,RU,1682458327,Uncomfortable,Overcast,Gentle breeze
+79,cromwell,41.5951,-72.6454,15.710000000000036,45,100,4.63,US,1682458327,Comfortable,Overcast,Gentle breeze
+80,san rafael del sur,11.8485,-86.4384,34.54000000000002,56,76,3.57,NI,1682458328,Uncomfortable,Mostly cloudy,Gentle breeze
+81,hawaiian paradise park,19.5933,-154.9731,27.80000000000001,69,0,4.63,US,1682458328,Uncomfortable,Sunny/Clear,Gentle breeze
+82,dingcheng,32.1272,115.0394,10.379999999999995,89,0,3.6,CN,1682458329,Uncomfortable,Sunny/Clear,Gentle breeze
+83,atafu village,-8.5421,-172.5159,29.090000000000032,75,62,6.75,TK,1682458329,Uncomfortable,Partly sunny,Moderate breeze
+84,iqaluit,63.7506,-68.5145,-1.1499999999999773,100,100,1.54,CA,1682458181,Uncomfortable,Overcast,Light breeze
+85,zhaoqing,23.0512,112.4597,14.700000000000045,89,0,1.3,CN,1682458330,Uncomfortable,Sunny/Clear,Light air
+86,birobidzhan,48.8,132.95,3.740000000000009,51,26,3.49,RU,1682458331,Comfortable,Mostly sunny,Gentle breeze
+87,ciudad de armeria,18.9333,-103.9667,29.010000000000048,49,100,3.99,MX,1682458331,Comfortable,Overcast,Gentle breeze
+88,invercargill,-46.4,168.35,11.680000000000007,82,100,0.89,NZ,1682458294,Uncomfortable,Overcast,Light air
+89,labrador city,52.9463,-66.9114,10.950000000000045,32,40,1.54,CA,1682458225,Comfortable,Partly cloudy,Light breeze
+90,avarua,-21.2078,-159.775,29.03000000000003,65,90,3.09,CK,1682458271,Uncomfortable,Mostly cloudy,Gentle breeze
+91,pandan,14.0453,124.1694,25.960000000000036,84,27,3.63,PH,1682458307,Uncomfortable,Mostly sunny,Gentle breeze
+92,baskale,38.0453,44.0172,4.840000000000032,70,69,0.43,TR,1682458333,Uncomfortable,Partly sunny,Calm
+93,lethem,3.3803,-59.7968,25.03000000000003,94,100,6.17,GY,1682458333,Uncomfortable,Overcast,Moderate breeze
+94,lensk,60.7253,114.9278,-2.9399999999999977,89,100,1.93,RU,1682458334,Uncomfortable,Overcast,Light breeze
+95,lishui,28.4604,119.9103,13.5,97,94,1.25,CN,1682458334,Uncomfortable,Overcast,Light air
+96,shingu,33.7333,135.9833,18.02000000000004,98,100,6.7,JP,1682458324,Uncomfortable,Overcast,Moderate breeze
+97,yambio,4.5721,28.3955,19.400000000000034,88,100,1.15,SS,1682458338,Uncomfortable,Overcast,Light air
+98,jamestown,42.097,-79.2353,9.180000000000007,61,100,6.17,US,1682458338,Uncomfortable,Overcast,Moderate breeze
+99,conde,-7.2597,-34.9075,26.700000000000045,89,75,4.12,BR,1682458340,Uncomfortable,Mostly cloudy,Gentle breeze
+100,port lincoln,-34.7333,135.8667,20.720000000000027,54,100,6.45,AU,1682458230,Comfortable,Overcast,Moderate breeze
+101,inhambane,-23.865,35.3833,21.910000000000025,83,0,3.31,MZ,1682458341,Uncomfortable,Sunny/Clear,Gentle breeze
+102,toliara,-23.35,43.6667,20.189999999999998,83,3,5.34,MG,1682458341,Uncomfortable,Sunny/Clear,Moderate breeze
+103,saint-francois,46.4154,3.9054,7.2000000000000455,79,0,1.54,FR,1682458341,Uncomfortable,Sunny/Clear,Light breeze
+104,yeppoon,-23.1333,150.7333,18.879999999999995,75,26,8.41,AU,1682458342,Uncomfortable,Mostly sunny,Fresh breeze
+105,bilibino,68.0546,166.4372,-1.6200000000000045,68,25,1.34,RU,1682458251,Uncomfortable,Mostly sunny,Light air
+106,khandud,36.9513,72.318,0.32000000000005,63,78,0.68,AF,1682458342,Uncomfortable,Mostly cloudy,Light air
+107,usinsk,65.9939,57.5281,-6.949999999999989,94,10,3.34,RU,1682458300,Uncomfortable,Sunny/Clear,Gentle breeze
+108,port mathurin,-19.6833,63.4167,25.980000000000018,81,12,7.22,MU,1682458343,Uncomfortable,Fair,Moderate breeze
+109,port saint john's,-31.6229,29.5448,22.140000000000043,90,81,3.25,ZA,1682458344,Uncomfortable,Mostly cloudy,Gentle breeze
+110,vorkuta,67.5,64.0,-13.370000000000005,100,52,3.74,RU,1682458344,Uncomfortable,Partly cloudy,Gentle breeze
+111,contes,43.8128,7.3144,17.210000000000036,55,0,1.03,FR,1682458345,Comfortable,Sunny/Clear,Light air
+112,xinyuan,37.3,99.0,-0.6299999999999955,23,0,1.46,CN,1682458345,Comfortable,Sunny/Clear,Light air
+113,kingscliff,-28.2667,153.5667,19.29000000000002,88,75,4.12,AU,1682458346,Uncomfortable,Mostly cloudy,Gentle breeze
+114,frederico westphalen,-27.3592,-53.3944,16.910000000000025,98,100,3.34,BR,1682458346,Uncomfortable,Overcast,Gentle breeze
+115,sitka,57.0531,-135.33,6.939999999999998,70,100,3.6,US,1682458347,Uncomfortable,Overcast,Gentle breeze
+116,dunda,-8.1167,34.25,18.390000000000043,93,58,1.06,TZ,1682458348,Uncomfortable,Partly cloudy,Light air
+117,huarmey,-10.0681,-78.1522,26.32000000000005,72,75,4.78,PE,1682458348,Uncomfortable,Mostly cloudy,Gentle breeze
+118,cabo san lucas,22.8909,-109.9124,29.78000000000003,36,0,6.17,MX,1682458349,Comfortable,Sunny/Clear,Moderate breeze
+119,usogorsk,63.4106,48.6872,0.6200000000000045,99,100,1.65,RU,1682458349,Uncomfortable,Overcast,Light breeze
+120,rongelap,11.1635,166.8941,25.450000000000045,87,100,10.59,MH,1682458350,Uncomfortable,Overcast,Strong breeze
+121,sao jose da coroa grande,-8.8978,-35.1478,25.5,85,80,2.79,BR,1682458350,Uncomfortable,Mostly cloudy,Light breeze
+122,mont-dore,-22.2833,166.5833,25.0,99,99,2.92,NC,1682458204,Uncomfortable,Overcast,Light breeze
+123,akjoujt,19.6969,-14.4164,31.260000000000048,23,4,6.02,MR,1682458312,Comfortable,Sunny/Clear,Moderate breeze
+124,acarau,-2.8856,-40.12,26.180000000000007,84,70,4.12,BR,1682458353,Uncomfortable,Partly sunny,Gentle breeze
+125,olyokminsk,60.3736,120.4264,-1.9399999999999977,85,100,1.23,RU,1682458353,Uncomfortable,Overcast,Light air
+126,cockburn town,21.4612,-71.1419,25.920000000000016,70,20,3.09,TC,1682458089,Uncomfortable,Fair,Gentle breeze
+127,muisne,0.6,-80.0333,27.920000000000016,73,32,2.66,EC,1682458353,Uncomfortable,Partly cloudy,Light breeze
+128,safford,32.834,-109.7076,30.510000000000048,10,0,5.66,US,1682458354,Comfortable,Sunny/Clear,Moderate breeze
+129,katsuren-haebaru,26.3369,127.8719,20.010000000000048,92,100,5.66,JP,1682458354,Uncomfortable,Overcast,Moderate breeze
+130,marhaura,25.9667,84.8667,25.960000000000036,28,3,2.5,IN,1682458354,Comfortable,Sunny/Clear,Light breeze
+131,taro,-8.3862,115.28,22.0,96,48,0.22,ID,1682458354,Uncomfortable,Partly cloudy,Calm
+132,yerofey pavlovich,53.9667,121.9667,-3.339999999999975,58,38,1.67,RU,1682458356,Uncomfortable,Partly cloudy,Light breeze
+133,bulgan,48.8125,103.5347,5.970000000000027,56,97,5.23,MN,1682458356,Uncomfortable,Overcast,Moderate breeze
+134,afaahiti,-17.75,-149.2833,26.930000000000007,86,100,5.72,PF,1682458356,Uncomfortable,Overcast,Moderate breeze
+135,itaguacu,-19.8019,-40.8556,21.75,91,50,1.66,BR,1682458358,Uncomfortable,Partly cloudy,Light breeze
+136,praia da vitoria,38.7333,-27.0667,19.140000000000043,77,40,5.08,PT,1682458313,Uncomfortable,Partly cloudy,Moderate breeze
+137,west island,-12.1568,96.8225,25.99000000000001,83,100,7.72,CC,1682458359,Uncomfortable,Overcast,Moderate breeze
+138,la baneza,42.3003,-5.8977,17.890000000000043,74,99,2.92,ES,1682458360,Uncomfortable,Overcast,Light breeze
+139,amalapuram,16.5833,82.0167,25.5,87,68,1.29,IN,1682458360,Uncomfortable,Partly sunny,Light air
+140,selfoss,63.9331,-20.9971,1.6899999999999977,83,84,3.35,IS,1682458360,Uncomfortable,Mostly cloudy,Gentle breeze
+141,aleksandrovsk-sakhalinskiy,50.8975,142.1561,4.53000000000003,62,100,11.44,RU,1682458361,Uncomfortable,Overcast,Strong breeze
+142,lodja,-3.4833,23.4333,22.30000000000001,92,91,0.46,CD,1682458361,Uncomfortable,Overcast,Calm
+143,tsiombe,-25.3,45.4833,17.700000000000045,77,6,1.44,MG,1682458361,Uncomfortable,Sunny/Clear,Light air
+144,nuriootpa,-34.4833,139.0,21.390000000000043,52,100,5.16,AU,1682458362,Comfortable,Overcast,Moderate breeze
+145,namtsy,62.7161,129.6658,-3.7799999999999727,93,97,2.31,RU,1682458366,Uncomfortable,Overcast,Light breeze
+146,daru,-9.0763,143.2092,27.200000000000045,85,100,5.62,PG,1682458367,Uncomfortable,Overcast,Moderate breeze
+147,alliance,40.9153,-81.1059,11.78000000000003,53,100,3.55,US,1682458098,Comfortable,Overcast,Gentle breeze
+148,nova sintra,14.8667,-24.7167,20.260000000000048,73,18,6.94,CV,1682458368,Uncomfortable,Fair,Moderate breeze
+149,springfield,37.2153,-93.2982,18.350000000000023,42,40,5.66,US,1682458182,Comfortable,Partly cloudy,Moderate breeze
+150,villa gesell,-37.2639,-56.973,18.920000000000016,90,18,3.66,AR,1682458369,Uncomfortable,Fair,Gentle breeze
+151,ust-nera,64.5667,143.2,-8.909999999999968,95,95,2.06,RU,1682458198,Uncomfortable,Overcast,Light breeze
+152,zeya,53.75,127.2667,-0.12000000000000455,51,82,2.3,RU,1682458370,Comfortable,Mostly cloudy,Light breeze
+153,magistral'nyy,56.1725,107.4458,-0.589999999999975,94,99,1.03,RU,1682458370,Uncomfortable,Overcast,Light air
+154,chonchi,-42.6128,-73.8092,12.560000000000002,99,100,0.65,CL,1682458293,Uncomfortable,Overcast,Light air
+155,aswan,24.0934,32.907,29.610000000000014,12,0,3.6,EG,1682458371,Comfortable,Sunny/Clear,Gentle breeze
+156,chinhoyi,-17.3667,30.2,16.420000000000016,51,6,1.82,ZW,1682458371,Comfortable,Sunny/Clear,Light breeze
+157,winnemucca,40.973,-117.7357,15.03000000000003,23,0,1.54,US,1682458371,Comfortable,Sunny/Clear,Light breeze
+158,balabac,7.9868,117.0645,27.480000000000018,80,100,3.8,PH,1682458372,Uncomfortable,Overcast,Gentle breeze
+159,abeche,13.8292,20.8324,30.720000000000027,21,77,2.65,TD,1682458372,Comfortable,Mostly cloudy,Light breeze
+160,kampene,-3.6,26.6667,19.370000000000005,99,100,1.71,CD,1682458372,Uncomfortable,Overcast,Light breeze
+161,sayyan,15.1718,44.3244,17.03000000000003,50,67,0.69,YE,1682458373,Comfortable,Partly sunny,Light air
+162,kiunga,-6.1219,141.2906,24.370000000000005,98,97,0.33,PG,1682458373,Uncomfortable,Overcast,Calm
+163,ippy,6.2679,21.2247,22.660000000000025,86,98,3.23,CF,1682458373,Uncomfortable,Overcast,Gentle breeze
+164,mbulu,-3.85,35.5333,15.360000000000014,94,99,2.91,TZ,1682458374,Uncomfortable,Overcast,Light breeze
+165,flying fish cove,-10.4217,105.6791,27.210000000000036,75,100,3.23,CX,1682458240,Uncomfortable,Overcast,Gentle breeze
+166,mokolo,10.7398,13.8019,29.670000000000016,20,57,0.84,CM,1682458374,Comfortable,Partly cloudy,Light air
+167,kingston,17.997,-76.7936,28.53000000000003,67,20,6.17,JM,1682458375,Uncomfortable,Fair,Moderate breeze
+168,hammerfest,70.6634,23.6821,0.25,74,75,0.0,NO,1682458377,Uncomfortable,Mostly cloudy,
+169,kapa'a,22.0752,-159.319,27.99000000000001,70,100,7.2,US,1682458377,Uncomfortable,Overcast,Moderate breeze
+170,college station,30.628,-96.3344,23.930000000000007,68,40,3.09,US,1682458314,Uncomfortable,Partly cloudy,Gentle breeze
+171,katabu,-4.9333,122.5167,24.160000000000025,91,99,1.02,ID,1682458378,Uncomfortable,Overcast,Light air
+172,iquique,-20.2208,-70.1431,22.02000000000004,78,20,2.14,CL,1682458378,Uncomfortable,Fair,Light breeze
+173,kapuskasing,49.4169,-82.4331,0.05000000000001137,93,100,4.12,CA,1682458179,Uncomfortable,Overcast,Gentle breeze
+174,rurrenabaque,-14.4413,-67.5278,26.310000000000002,77,99,0.66,BO,1682458379,Uncomfortable,Overcast,Light air
+175,whitehorse,60.7161,-135.0538,5.57000000000005,38,20,5.14,CA,1682458380,Comfortable,Fair,Moderate breeze
+176,made,-7.1174,112.3915,23.810000000000002,94,49,1.62,ID,1682458381,Uncomfortable,Partly cloudy,Light breeze
+177,lompoc,34.6391,-120.4579,25.010000000000048,75,100,3.58,US,1682458382,Uncomfortable,Overcast,Gentle breeze
+178,guangyuan,32.442,105.823,13.230000000000018,90,100,1.49,CN,1682458382,Uncomfortable,Overcast,Light air
+179,chibougamau,49.9168,-74.3659,6.7900000000000205,81,75,5.14,CA,1682458134,Uncomfortable,Mostly cloudy,Moderate breeze
+180,puerto baquerizo moreno,-0.9,-89.6,28.55000000000001,79,40,3.09,EC,1682458198,Uncomfortable,Partly cloudy,Gentle breeze
+181,sinabang,2.4803,96.3801,27.439999999999998,79,100,1.77,ID,1682458325,Uncomfortable,Overcast,Light breeze
+182,uturoa,-16.7333,-151.4333,28.0,76,18,4.9,PF,1682458240,Uncomfortable,Fair,Gentle breeze
+183,east end,34.5507,-92.341,17.939999999999998,62,100,2.82,US,1682458384,Uncomfortable,Overcast,Light breeze
+184,kruisfontein,-34.0033,24.7314,16.600000000000023,92,89,1.0,ZA,1682458384,Uncomfortable,Mostly cloudy,Light air
+185,prince rupert,54.3161,-130.3201,9.050000000000011,72,100,7.72,CA,1682458105,Uncomfortable,Overcast,Moderate breeze
+186,cestos city,5.46,-9.5828,27.439999999999998,84,100,3.07,LR,1682458385,Uncomfortable,Overcast,Gentle breeze
+187,minas de marcona,-15.2119,-75.1103,18.939999999999998,71,24,5.94,PE,1682458385,Uncomfortable,Mostly sunny,Moderate breeze
+188,talnakh,69.4865,88.3972,-0.4399999999999977,86,97,2.29,RU,1682458386,Uncomfortable,Overcast,Light breeze
+189,quibala,-10.7337,14.98,17.390000000000043,94,75,0.51,AO,1682458386,Uncomfortable,Mostly cloudy,Light air
+190,kodiak,57.79,-152.4072,3.730000000000018,87,75,6.69,US,1682458387,Uncomfortable,Mostly cloudy,Moderate breeze
+191,utrik,11.2278,169.8474,27.03000000000003,79,85,8.46,MH,1682458387,Uncomfortable,Mostly cloudy,Fresh breeze
+192,ribeira grande,38.5167,-28.7,17.650000000000034,94,20,4.02,PT,1682458170,Uncomfortable,Fair,Gentle breeze
+193,charlestown,-32.95,151.6667,16.49000000000001,91,4,0.89,AU,1682458105,Uncomfortable,Sunny/Clear,Light air
+194,linxia chengguanzhen,35.6003,103.2064,8.25,37,63,1.43,CN,1682458389,Comfortable,Partly sunny,Light air
+195,tofol,5.3248,163.0078,28.480000000000018,73,89,7.19,FM,1682458195,Uncomfortable,Mostly cloudy,Moderate breeze
+196,ilebo,-4.3167,20.5833,22.99000000000001,86,2,0.65,CD,1682458390,Uncomfortable,Sunny/Clear,Light air
+197,stanley,54.868,-1.6985,3.7200000000000273,82,0,1.03,GB,1682458199,Uncomfortable,Sunny/Clear,Light air
+198,margate,51.3813,1.3862,6.5,73,42,1.34,GB,1682458391,Uncomfortable,Partly cloudy,Light air
+199,arteche,12.2645,125.4048,25.890000000000043,84,52,2.05,PH,1682458314,Uncomfortable,Partly cloudy,Light breeze
+200,uthal,25.8072,66.6219,27.180000000000007,44,100,3.2,PK,1682458392,Comfortable,Overcast,Gentle breeze
+201,prado,-17.3411,-39.2208,24.160000000000025,86,7,2.11,BR,1682458392,Uncomfortable,Sunny/Clear,Light breeze
+202,maracaibo,10.6317,-71.6406,30.930000000000007,53,22,3.09,VE,1682458164,Comfortable,Mostly sunny,Gentle breeze
+203,tazacorte,28.629,-17.9293,20.54000000000002,91,75,3.6,ES,1682458393,Uncomfortable,Mostly cloudy,Gentle breeze
+204,xuanzhou,30.9525,118.7553,9.82000000000005,90,0,1.05,CN,1682458393,Uncomfortable,Sunny/Clear,Light air
+205,basco,20.4487,121.9702,25.010000000000048,74,38,5.3,PH,1682458393,Uncomfortable,Partly cloudy,Moderate breeze
+206,qaqortoq,60.7167,-46.0333,1.6299999999999955,89,98,1.2,GL,1682458394,Uncomfortable,Overcast,Light air
+207,port alfred,-33.5906,26.891,20.100000000000023,97,99,1.79,ZA,1682458208,Uncomfortable,Overcast,Light breeze
+208,chissamba,-12.1667,17.3333,19.03000000000003,78,99,0.84,AO,1682458394,Uncomfortable,Overcast,Light air
+209,bago,17.3367,96.4797,28.260000000000048,61,39,1.01,MM,1682458334,Uncomfortable,Partly cloudy,Light air
+210,hithadhoo,-0.6,73.0833,28.760000000000048,75,100,5.94,MV,1682458395,Uncomfortable,Overcast,Moderate breeze
+211,pacific grove,36.6177,-121.9166,24.25,74,0,2.57,US,1682458236,Uncomfortable,Sunny/Clear,Light breeze
+212,klyuchi,52.2667,79.1667,8.550000000000011,63,82,6.29,RU,1682458396,Uncomfortable,Mostly cloudy,Moderate breeze
+213,reconquista,-29.15,-59.65,21.670000000000016,54,93,0.6,AR,1682458217,Comfortable,Overcast,Light air
+214,tuy hoa,13.0833,109.3,24.53000000000003,87,93,1.3,VN,1682458396,Uncomfortable,Overcast,Light air
+215,cherniakhiv,50.4565,28.6702,8.720000000000027,87,83,3.14,UA,1682458398,Uncomfortable,Mostly cloudy,Gentle breeze
+216,gritsovskiy,54.1376,38.1604,9.600000000000023,94,100,3.76,RU,1682458398,Uncomfortable,Overcast,Gentle breeze
+217,grootfontein,-19.5667,18.1167,16.760000000000048,77,12,1.03,,1682458398,Uncomfortable,Fair,Light air
+218,waldkappel,51.15,9.8833,4.170000000000016,94,56,1.47,DE,1682458399,Uncomfortable,Partly cloudy,Light air
+219,alofi,-19.0595,-169.9187,26.939999999999998,78,68,4.12,NU,1682458399,Uncomfortable,Partly sunny,Gentle breeze
+220,brookings,44.3114,-96.7984,11.189999999999998,36,0,3.09,US,1682458234,Comfortable,Sunny/Clear,Gentle breeze
+221,cruzeiro do sul,-29.5128,-51.9853,21.950000000000045,87,100,0.79,BR,1682458400,Uncomfortable,Overcast,Light air
+222,adrar,20.5022,-10.0711,31.03000000000003,11,0,3.68,MR,1682458400,Comfortable,Sunny/Clear,Gentle breeze
+223,ansermanuevo,4.7972,-75.995,30.650000000000034,80,37,2.18,CO,1682458400,Uncomfortable,Partly cloudy,Light breeze
+224,salinopolis,-0.6136,-47.3561,26.27000000000004,84,74,3.9,BR,1682458401,Uncomfortable,Mostly cloudy,Gentle breeze
+225,ardakan,32.31,54.0175,18.890000000000043,53,78,1.49,IR,1682458401,Comfortable,Mostly cloudy,Light air
+226,ulaangom,49.9811,92.0667,-2.079999999999984,38,97,1.11,MN,1682458401,Comfortable,Overcast,Light air
+227,leava,-14.3,-178.1667,28.439999999999998,77,32,6.64,WF,1682458277,Uncomfortable,Partly cloudy,Moderate breeze
+228,at-bashi,41.1702,75.8106,5.810000000000002,75,76,0.34,KG,1682458402,Uncomfortable,Mostly cloudy,Calm
+229,kavaratti,10.5669,72.642,27.450000000000045,69,46,2.45,IN,1682458402,Uncomfortable,Partly cloudy,Light breeze
+230,ancud,-41.8697,-73.8203,11.710000000000036,97,100,2.78,CL,1682458252,Uncomfortable,Overcast,Light breeze
+231,mar del plata,-38.0023,-57.5575,19.49000000000001,94,75,2.06,AR,1682458326,Uncomfortable,Mostly cloudy,Light breeze
+232,tannum sands,-23.9504,151.3693,19.939999999999998,68,0,4.63,AU,1682458403,Uncomfortable,Sunny/Clear,Gentle breeze
+233,saudarkrokur,65.7461,-19.6394,-0.42999999999995,65,9,2.64,IS,1682458404,Uncomfortable,Sunny/Clear,Light breeze
+234,arafat,21.3594,39.9664,29.939999999999998,46,11,1.91,SA,1682458405,Comfortable,Fair,Light breeze
+235,brisas de zicatela,15.8369,-97.0419,30.29000000000002,62,40,4.12,MX,1682458405,Uncomfortable,Partly cloudy,Gentle breeze
+236,anadyr,64.75,177.4833,-8.71999999999997,66,0,4.0,RU,1682458406,Uncomfortable,Sunny/Clear,Gentle breeze
+237,ha tien,10.3833,104.4833,27.890000000000043,74,100,2.9,VN,1682458406,Uncomfortable,Overcast,Light breeze
+238,luderitz,-26.6481,15.1594,17.600000000000023,79,0,5.48,,1682458406,Uncomfortable,Sunny/Clear,Moderate breeze
+239,andergrove,-21.0833,149.1833,20.910000000000025,80,72,8.45,AU,1682458407,Uncomfortable,Mostly cloudy,Fresh breeze
+240,rio grande,-32.035,-52.0986,24.060000000000002,86,100,2.73,BR,1682458166,Uncomfortable,Overcast,Light breeze
+241,port augusta,-32.5,137.7667,22.08000000000004,40,100,4.82,AU,1682458411,Comfortable,Overcast,Gentle breeze
+242,kavieng,-2.5744,150.7967,28.129999999999995,79,98,4.18,PG,1682458411,Uncomfortable,Overcast,Gentle breeze
+243,teluk nibung,3.001,99.8164,24.620000000000005,93,100,1.8,ID,1682458411,Uncomfortable,Overcast,Light breeze
+244,sur,22.5667,59.5289,26.650000000000034,59,4,3.94,OM,1682458412,Uncomfortable,Sunny/Clear,Gentle breeze
+245,fonte boa,-2.4959,-66.2662,24.590000000000032,94,55,0.76,BR,1682458412,Uncomfortable,Partly cloudy,Light air
+246,palmeira,-25.4294,-50.0064,16.090000000000032,80,96,1.16,BR,1682458414,Uncomfortable,Overcast,Light air
+247,malvan,16.0667,73.4667,26.360000000000014,77,28,0.45,IN,1682458414,Uncomfortable,Mostly sunny,Calm
+248,manggar,-2.8833,108.2667,26.350000000000023,82,99,0.99,ID,1682458414,Uncomfortable,Overcast,Light air
+249,nadym,65.5333,72.5167,-5.7099999999999795,98,98,0.67,RU,1682458266,Uncomfortable,Overcast,Light air
+250,san mariano,7.5,126.0,21.970000000000027,90,76,1.45,PH,1682458415,Uncomfortable,Mostly cloudy,Light air
+251,palikir - national government center,6.9248,158.1611,27.660000000000025,78,43,5.99,FM,1682458254,Uncomfortable,Partly cloudy,Moderate breeze
+252,humaita,-7.5061,-63.0208,25.879999999999995,84,36,0.85,BR,1682458417,Uncomfortable,Partly cloudy,Light air
+253,namibe,-15.1961,12.1522,23.5,81,56,3.22,AO,1682458417,Uncomfortable,Partly cloudy,Gentle breeze
+254,oyama,36.3,139.8,13.590000000000032,88,100,2.11,JP,1682458418,Uncomfortable,Overcast,Light breeze
+255,fakenham,52.83,0.8477,4.930000000000007,81,45,0.95,GB,1682458331,Uncomfortable,Partly cloudy,Light air
+256,capitan bermudez,-32.8226,-60.7185,20.53000000000003,79,0,2.06,AR,1682458420,Uncomfortable,Sunny/Clear,Light breeze
+257,mejit,10.2753,170.8646,27.170000000000016,79,99,8.6,MH,1682458420,Uncomfortable,Overcast,Fresh breeze
+258,nuku'alofa,-21.1333,-175.2,27.189999999999998,74,40,5.14,TO,1682458224,Uncomfortable,Partly cloudy,Moderate breeze
+259,northam,51.0333,-4.2167,7.010000000000048,73,100,4.68,GB,1682458420,Uncomfortable,Overcast,Gentle breeze
+260,severo-yeniseyskiy,60.3725,93.0408,-6.3799999999999955,97,99,1.83,RU,1682458424,Uncomfortable,Overcast,Light breeze
+261,noosa heads,-26.3833,153.15,19.629999999999995,75,59,8.56,AU,1682458424,Uncomfortable,Partly cloudy,Fresh breeze
+262,isla mujeres,21.2311,-86.731,30.090000000000032,72,66,6.46,MX,1682458385,Uncomfortable,Partly sunny,Moderate breeze
+263,santa cruz,-17.8,-63.1667,25.700000000000045,73,40,2.57,BO,1682458425,Uncomfortable,Partly cloudy,Light breeze
+264,katsuura,35.1333,140.3,17.78000000000003,86,100,8.38,JP,1682458425,Uncomfortable,Overcast,Fresh breeze
+265,glarus,47.0406,9.068,3.6000000000000227,93,56,2.13,CH,1682458427,Uncomfortable,Partly cloudy,Light breeze
+266,peniche,39.3558,-9.3811,16.83000000000004,90,36,3.69,PT,1682458427,Uncomfortable,Partly cloudy,Gentle breeze
+267,najaf,31.9985,44.3398,23.879999999999995,38,0,0.0,IQ,1682458428,Comfortable,Sunny/Clear,
+268,mount gambier,-37.8333,140.7667,15.230000000000018,68,57,3.75,AU,1682458428,Uncomfortable,Partly cloudy,Gentle breeze
+269,yuzhno-kurilsk,44.0306,145.8556,4.860000000000014,77,100,8.4,RU,1682458428,Uncomfortable,Overcast,Fresh breeze
+270,aasiaat,68.7098,-52.8699,0.29000000000002046,99,100,2.19,GL,1682458191,Uncomfortable,Overcast,Light breeze
+271,lake albert,-35.1667,147.3833,12.560000000000002,77,55,2.3,AU,1682458429,Uncomfortable,Partly cloudy,Light breeze
+272,cole harbour,44.6724,-63.4751,7.8799999999999955,64,75,4.63,CA,1682458430,Uncomfortable,Mostly cloudy,Gentle breeze
+273,alice springs,-23.7,133.8833,13.75,72,60,3.29,AU,1682458253,Uncomfortable,Partly cloudy,Gentle breeze
+274,le port,-20.9373,55.2919,25.0,94,0,0.38,RE,1682458430,Uncomfortable,Sunny/Clear,Calm
+275,celestun,20.8667,-90.4,28.75,69,60,4.52,MX,1682458431,Uncomfortable,Partly cloudy,Gentle breeze
+276,college,64.8569,-147.8028,1.160000000000025,43,20,4.12,US,1682458432,Comfortable,Fair,Gentle breeze
+277,inirida,3.8653,-67.9239,24.53000000000003,94,98,0.86,CO,1682458433,Uncomfortable,Overcast,Light air
+278,ust'-ilimsk,58.0006,102.6619,-1.3899999999999864,94,100,4.13,RU,1682458434,Uncomfortable,Overcast,Gentle breeze
+279,east london,-33.0153,27.9116,20.629999999999995,92,99,4.3,ZA,1682458435,Uncomfortable,Overcast,Gentle breeze
+280,saint-philippe,-21.3585,55.7679,24.77000000000004,84,13,1.28,RE,1682458435,Uncomfortable,Fair,Light air
+281,barra,-11.0894,-43.1417,26.140000000000043,41,0,1.24,BR,1682458436,Comfortable,Sunny/Clear,Light air
+282,el calafate,-50.3408,-72.2768,6.939999999999998,68,6,2.94,AR,1682458209,Uncomfortable,Sunny/Clear,Light breeze
+283,recani,31.2846,-4.2688,28.970000000000027,15,38,6.07,MA,1682458437,Comfortable,Partly cloudy,Moderate breeze
+284,milford haven,51.7128,-5.0341,8.810000000000002,74,100,4.77,GB,1682458437,Uncomfortable,Overcast,Gentle breeze
+285,akureyri,65.6835,-18.0878,-0.03999999999996362,64,100,3.6,IS,1682458437,Uncomfortable,Overcast,Gentle breeze
+286,walvis bay,-22.9575,14.5053,18.53000000000003,77,0,5.14,,1682458438,Uncomfortable,Sunny/Clear,Moderate breeze
+287,macusani,-14.0833,-70.4333,5.9500000000000455,80,94,2.79,PE,1682458438,Uncomfortable,Overcast,Light breeze
+288,ilulissat,69.2167,-51.1,1.0100000000000477,93,100,1.54,GL,1682458438,Uncomfortable,Overcast,Light breeze
+289,guerrero negro,27.9769,-114.0611,19.74000000000001,55,0,7.28,MX,1682458260,Comfortable,Sunny/Clear,Moderate breeze
+290,kayangel,8.0823,134.7173,28.430000000000007,73,27,3.16,PW,1682458439,Uncomfortable,Mostly sunny,Gentle breeze
+291,rawai,7.7797,98.3253,25.060000000000002,75,93,2.13,TH,1682458439,Uncomfortable,Overcast,Light breeze
+292,constantia,44.1833,28.65,11.5,95,100,3.32,RO,1682458440,Uncomfortable,Overcast,Gentle breeze
+293,namsos,64.4662,11.4957,0.03000000000002956,93,100,1.03,NO,1682458440,Uncomfortable,Overcast,Light air
+294,kirakira,-10.4544,161.9205,28.140000000000043,72,92,2.42,SB,1682458440,Uncomfortable,Overcast,Light breeze
+295,fort bragg,35.139,-79.006,19.900000000000034,43,100,2.06,US,1682458441,Comfortable,Overcast,Light breeze
+296,son la,21.3167,103.9,18.05000000000001,92,95,1.2,VN,1682458441,Uncomfortable,Overcast,Light air
+297,maryville,35.7565,-83.9705,19.99000000000001,38,75,4.12,US,1682458219,Comfortable,Mostly cloudy,Gentle breeze
+298,mount isa,-20.7333,139.5,17.870000000000005,68,40,3.09,AU,1682458442,Uncomfortable,Partly cloudy,Gentle breeze
+299,patti,31.2808,74.8572,23.04000000000002,29,40,2.57,IN,1682458442,Comfortable,Partly cloudy,Light breeze
+300,mwingi,-0.9344,38.0601,19.32000000000005,96,100,1.0,KE,1682458442,Uncomfortable,Overcast,Light air
+301,ostersund,63.1792,14.6357,-1.75,100,100,2.06,SE,1682458443,Uncomfortable,Overcast,Light breeze
+302,chabahar,25.2919,60.643,24.939999999999998,63,87,4.13,IR,1682458443,Uncomfortable,Mostly cloudy,Gentle breeze
+303,revda,56.801,59.9303,9.939999999999998,68,84,1.81,RU,1682458317,Uncomfortable,Mostly cloudy,Light breeze
+304,sisimiut,66.9395,-53.6735,1.0500000000000114,98,100,1.03,GL,1682458444,Uncomfortable,Overcast,Light air
+305,port douglas,-16.4833,145.4667,24.689999999999998,81,97,7.45,AU,1682458445,Uncomfortable,Overcast,Moderate breeze
+306,shibata,37.95,139.3333,12.580000000000041,79,100,3.31,JP,1682458209,Uncomfortable,Overcast,Gentle breeze
+307,castillos,-34.1667,-53.8333,18.720000000000027,89,95,1.61,UY,1682458447,Uncomfortable,Overcast,Light breeze
+308,batticaloa,7.7102,81.6924,27.060000000000002,82,100,0.85,LK,1682458447,Uncomfortable,Overcast,Light air
+309,nykobing mors,56.7933,8.8528,5.6299999999999955,66,5,12.29,DK,1682458448,Uncomfortable,Sunny/Clear,Strong breeze
+310,narvik,68.4384,17.4272,1.670000000000016,64,100,3.45,NO,1682458448,Uncomfortable,Overcast,Gentle breeze
+311,fort mcmurray,56.7268,-111.381,6.770000000000039,75,100,3.09,CA,1682458421,Uncomfortable,Overcast,Gentle breeze
+312,gadzhiyevo,69.2551,33.3362,-9.389999999999986,94,53,2.1,RU,1682458449,Uncomfortable,Partly cloudy,Light breeze
+313,sao paulo de olivenca,-3.3783,-68.8725,25.03000000000003,86,92,0.84,BR,1682458449,Uncomfortable,Overcast,Light air
+314,jiuquan,39.7432,98.5174,8.610000000000014,42,67,2.57,CN,1682458449,Comfortable,Partly sunny,Light breeze
+315,bermeo,43.4209,-2.7215,17.910000000000025,77,100,2.26,ES,1682458450,Uncomfortable,Overcast,Light breeze
+316,nagqu,31.5,92.0,-6.769999999999982,86,99,1.33,CN,1682458192,Uncomfortable,Overcast,Light air
+317,keflavik,64.0049,-22.5624,3.9500000000000455,93,75,2.57,IS,1682458451,Uncomfortable,Mostly cloudy,Light breeze
+318,wynyard,-41.0,145.7167,10.54000000000002,84,3,1.8,AU,1682458166,Uncomfortable,Sunny/Clear,Light breeze
+319,urengoy,65.9667,78.3667,-10.560000000000002,96,100,2.06,RU,1682458452,Uncomfortable,Overcast,Light breeze
+320,correntina,-13.3433,-44.6367,23.450000000000045,53,1,1.16,BR,1682458453,Comfortable,Sunny/Clear,Light air
+321,stephenville,32.2207,-98.2023,20.640000000000043,80,100,4.12,US,1682458269,Uncomfortable,Overcast,Gentle breeze
+322,batang,-6.4846,110.7083,25.360000000000014,83,84,2.26,ID,1682458453,Uncomfortable,Mostly cloudy,Light breeze
+323,khanty-mansiysk,61.0042,69.0019,2.0600000000000023,64,0,2.0,RU,1682458455,Uncomfortable,Sunny/Clear,Light breeze
+324,mangai,-4.05,19.5333,21.439999999999998,97,51,0.25,CD,1682458455,Uncomfortable,Partly cloudy,Calm
+325,galle,6.0367,80.217,26.100000000000023,84,100,1.29,LK,1682458457,Uncomfortable,Overcast,Light air
+326,lisala,2.15,21.5167,22.410000000000025,88,100,0.26,CD,1682458457,Uncomfortable,Overcast,Calm
+327,banda aceh,5.5577,95.3222,26.480000000000018,80,98,2.01,ID,1682458458,Uncomfortable,Overcast,Light breeze
+328,ponca city,36.707,-97.0856,9.980000000000018,90,100,3.6,US,1682458208,Uncomfortable,Overcast,Gentle breeze
+329,uenohara,35.6167,139.1167,12.050000000000011,96,100,1.67,JP,1682458459,Uncomfortable,Overcast,Light breeze
+330,muroto-misakicho,33.2833,134.15,18.970000000000027,95,100,10.25,JP,1682458461,Uncomfortable,Overcast,Fresh breeze
+331,la passe,45.5549,-0.8967,12.129999999999995,95,100,4.7,FR,1682458462,Uncomfortable,Overcast,Gentle breeze
+332,as saffaniyah,27.9708,48.73,25.710000000000036,41,89,4.51,SA,1682458462,Comfortable,Mostly cloudy,Gentle breeze
+333,cebu city,10.3167,123.8907,26.810000000000002,83,40,2.57,PH,1682458462,Uncomfortable,Partly cloudy,Light breeze
+334,ola,59.5833,151.2833,-0.37999999999999545,77,99,2.99,RU,1682458463,Uncomfortable,Overcast,Light breeze
+335,laurel bay,32.4502,-80.7848,22.170000000000016,64,100,5.66,US,1682458463,Uncomfortable,Overcast,Moderate breeze
+336,anna regina,7.2644,-58.5077,24.439999999999998,90,100,2.29,GY,1682458464,Uncomfortable,Overcast,Light breeze
+337,swift current,50.2834,-107.8014,16.450000000000045,39,20,7.72,CA,1682458464,Comfortable,Fair,Moderate breeze
+338,bilajer,40.5681,50.0378,14.900000000000034,82,20,3.09,AZ,1682458465,Uncomfortable,Fair,Gentle breeze
+339,kijang,35.2442,129.2139,7.850000000000023,83,7,2.71,KR,1682458465,Uncomfortable,Sunny/Clear,Light breeze
+340,viet tri,21.3019,105.4308,19.970000000000027,85,100,1.47,VN,1682458465,Uncomfortable,Overcast,Light air
+341,vilyuysk,63.7553,121.6247,-3.3100000000000023,96,100,2.9,RU,1682458466,Uncomfortable,Overcast,Light breeze
+342,pimentel,-6.8367,-79.9342,26.160000000000025,73,75,6.69,PE,1682458466,Uncomfortable,Mostly cloudy,Moderate breeze
+343,bodo,67.28,14.405,1.0200000000000387,79,75,4.12,NO,1682458467,Uncomfortable,Mostly cloudy,Gentle breeze
+344,happy valley-goose bay,53.3168,-60.3315,11.170000000000016,40,40,5.66,CA,1682458236,Comfortable,Partly cloudy,Moderate breeze
+345,acapulco de juarez,16.8634,-99.8901,29.900000000000034,62,20,4.63,MX,1682458383,Uncomfortable,Fair,Gentle breeze
+346,khandyga,62.6667,135.6,-1.42999999999995,91,94,0.97,RU,1682458469,Uncomfortable,Overcast,Light air
+347,dhuusamarreeb,5.535,46.3861,27.58000000000004,71,84,6.66,SO,1682458470,Uncomfortable,Mostly cloudy,Moderate breeze
+348,ulsteinvik,62.3432,5.8487,2.730000000000018,89,100,2.68,NO,1682458470,Uncomfortable,Overcast,Light breeze
+349,igarka,67.4667,86.5833,-2.7799999999999727,97,100,4.2,RU,1682458249,Uncomfortable,Overcast,Gentle breeze
+350,kudat,6.8837,116.8477,27.960000000000036,89,20,2.06,MY,1682458471,Uncomfortable,Fair,Light breeze
+351,independence,39.0911,-94.4155,19.910000000000025,35,20,3.6,US,1682458472,Comfortable,Fair,Gentle breeze
+352,okha,53.5739,142.9478,1.4300000000000068,74,100,7.51,RU,1682458472,Uncomfortable,Overcast,Moderate breeze
+353,ulladulla,-35.35,150.4667,16.29000000000002,83,9,1.2,AU,1682458472,Uncomfortable,Sunny/Clear,Light air
+354,boyolangu,-8.1181,111.8935,24.410000000000025,91,93,0.29,ID,1682458473,Uncomfortable,Overcast,Calm
+355,heinsch,49.7008,5.7465,3.330000000000041,84,5,1.96,LU,1682458473,Uncomfortable,Sunny/Clear,Light breeze
+356,mil'kovo,55.6078,37.7956,13.520000000000039,83,100,3.5,RU,1682458474,Uncomfortable,Overcast,Gentle breeze
+357,yardimli,38.9206,48.2372,10.28000000000003,95,100,0.42,AZ,1682458474,Uncomfortable,Overcast,Calm
+358,nong phai,15.9903,101.0618,27.310000000000002,68,85,1.56,TH,1682458475,Uncomfortable,Mostly cloudy,Light breeze
+359,sattahip,12.6664,100.9007,29.99000000000001,89,20,2.06,TH,1682458475,Uncomfortable,Fair,Light breeze
+360,polyarnyy,69.1989,33.4478,-7.939999999999998,91,49,1.94,RU,1682458476,Uncomfortable,Partly cloudy,Light breeze
+361,hereford,52.0568,-2.7148,7.57000000000005,78,100,1.27,GB,1682458476,Uncomfortable,Overcast,Light air
+362,kimbe,-5.5502,150.1429,27.79000000000002,79,67,0.63,PG,1682458476,Uncomfortable,Partly sunny,Light air
+363,taroa,8.7058,171.2275,27.58000000000004,79,100,8.54,MH,1682458477,Uncomfortable,Overcast,Fresh breeze
+364,yeed,4.55,43.0333,23.689999999999998,90,100,7.7,SO,1682458255,Uncomfortable,Overcast,Moderate breeze
+365,carqueiranne,43.0953,6.073,17.53000000000003,17,0,4.63,FR,1682458481,Comfortable,Sunny/Clear,Gentle breeze
+366,velingara,13.15,-14.1167,33.98000000000002,18,0,1.82,SN,1682458482,Comfortable,Sunny/Clear,Light breeze
+367,grantsville,40.5999,-112.4644,7.5400000000000205,67,100,6.62,US,1682458482,Uncomfortable,Overcast,Moderate breeze
+368,vila franca do campo,37.7167,-25.4333,18.230000000000018,95,71,2.51,PT,1682458482,Uncomfortable,Mostly cloudy,Light breeze
+369,porto novo,6.4965,2.6036,29.900000000000034,84,86,3.07,BJ,1682458483,Uncomfortable,Mostly cloudy,Gentle breeze
+370,pangai,-19.8,-174.35,27.060000000000002,78,40,4.63,TO,1682458483,Uncomfortable,Partly cloudy,Gentle breeze
+371,holualoa,19.6228,-155.9522,24.910000000000025,76,20,3.6,US,1682458483,Uncomfortable,Fair,Gentle breeze
+372,rundu,-17.9333,19.7667,21.03000000000003,42,3,2.49,,1682458484,Comfortable,Sunny/Clear,Light breeze
+373,elk city,35.412,-99.4043,11.990000000000009,100,100,7.2,US,1682458264,Uncomfortable,Overcast,Moderate breeze
+374,paita,-5.0892,-81.1144,27.0,70,80,4.23,PE,1682458484,Uncomfortable,Mostly cloudy,Gentle breeze
+375,joshimath,30.5667,79.5667,8.879999999999995,54,62,3.25,IN,1682458485,Comfortable,Partly sunny,Gentle breeze
+376,hasaki,35.7333,140.8333,14.560000000000002,85,100,10.29,JP,1682458485,Uncomfortable,Overcast,Fresh breeze
+377,camana,-16.6228,-72.7111,22.170000000000016,79,10,3.64,PE,1682458485,Uncomfortable,Sunny/Clear,Gentle breeze
+378,kendari,-3.945,122.4989,23.82000000000005,96,86,1.76,ID,1682458486,Uncomfortable,Mostly cloudy,Light breeze
+379,weno,7.4515,151.8468,27.970000000000027,83,100,2.06,FM,1682458486,Uncomfortable,Overcast,Light breeze
+380,troitsko-pechorsk,62.7084,56.1964,-3.8799999999999955,100,67,0.39,RU,1682458487,Uncomfortable,Partly sunny,Calm
+381,itaituba,-4.2761,-55.9836,31.090000000000032,66,20,2.57,BR,1682458487,Uncomfortable,Fair,Light breeze
+382,wad az zaki,14.4619,32.2065,33.360000000000014,12,9,4.4,SD,1682458487,Comfortable,Sunny/Clear,Gentle breeze
+383,dunedin,-45.8742,170.5036,9.330000000000041,68,75,6.71,NZ,1682458295,Uncomfortable,Mostly cloudy,Moderate breeze
+384,junction city,39.0286,-96.8314,17.920000000000016,49,75,4.92,US,1682458338,Comfortable,Mostly cloudy,Gentle breeze
+385,yantzaza,-3.8278,-78.7594,22.230000000000018,86,95,0.47,EC,1682458491,Uncomfortable,Overcast,Calm
+386,east ballina,-28.8667,153.5833,16.560000000000002,66,91,6.22,AU,1682458492,Uncomfortable,Overcast,Moderate breeze
+387,gwadar,25.1216,62.3254,24.350000000000023,65,81,1.03,PK,1682458492,Uncomfortable,Mostly cloudy,Light air
+388,jacmel,18.2342,-72.5347,29.910000000000025,72,44,2.79,HT,1682458493,Uncomfortable,Partly cloudy,Light breeze
+389,yeniseysk,58.4497,92.1703,-3.839999999999975,96,76,2.09,RU,1682458493,Uncomfortable,Mostly cloudy,Light breeze
+390,olinda,-8.0089,-34.8553,26.850000000000023,83,75,4.12,BR,1682458494,Uncomfortable,Mostly cloudy,Gentle breeze
+391,nemuro,43.3236,145.575,5.470000000000027,81,100,12.56,JP,1682458495,Uncomfortable,Overcast,Strong breeze
+392,bechar,31.6167,-2.2167,27.04000000000002,14,0,4.07,DZ,1682458495,Comfortable,Sunny/Clear,Gentle breeze
+393,tolanaro,-25.0319,46.9987,19.310000000000002,78,50,2.96,MG,1682458496,Uncomfortable,Partly cloudy,Light breeze
+394,ribas do rio pardo,-20.4431,-53.7592,22.82000000000005,84,31,1.42,BR,1682458496,Uncomfortable,Partly cloudy,Light air
+395,hinojosa del duque,38.5006,-5.1465,16.460000000000036,38,12,1.48,ES,1682458496,Comfortable,Fair,Light air
+396,sulejow,51.3544,19.8854,7.8799999999999955,19,100,25.03,PL,1682458497,Comfortable,Overcast,Fresh Gale
+397,ad dawadimi,24.5077,44.3924,18.640000000000043,59,55,4.99,SA,1682458497,Uncomfortable,Partly cloudy,Gentle breeze
+398,saint-joseph,-21.3667,55.6167,24.210000000000036,84,7,1.54,RE,1682458497,Uncomfortable,Sunny/Clear,Light breeze
+399,san luis de la loma,17.2706,-100.8939,29.590000000000032,57,28,5.2,MX,1682458498,Uncomfortable,Mostly sunny,Moderate breeze
+400,kaa-khem,51.6833,94.7333,-3.3799999999999955,65,68,3.54,RU,1682458498,Uncomfortable,Partly sunny,Gentle breeze
+401,viedma,-40.8135,-62.9967,20.680000000000007,48,100,0.97,AR,1682458498,Comfortable,Overcast,Light air
+402,tuba city,36.135,-111.2399,17.53000000000003,11,0,11.25,US,1682458500,Comfortable,Sunny/Clear,Strong breeze
+403,flin flon,54.7682,-101.865,6.910000000000025,42,100,5.66,CA,1682458500,Comfortable,Overcast,Moderate breeze
+404,san antonio de pale,-1.4014,5.6325,28.05000000000001,75,100,4.9,GQ,1682458501,Uncomfortable,Overcast,Gentle breeze
+405,zouerate,22.7187,-12.4521,31.980000000000018,15,12,3.18,MR,1682458501,Comfortable,Fair,Gentle breeze
+406,khvoynaya,58.9,34.5333,8.770000000000039,79,87,1.38,RU,1682458502,Uncomfortable,Mostly cloudy,Light air
+407,burao,9.5221,45.5336,23.939999999999998,66,24,3.62,SO,1682458502,Uncomfortable,Mostly sunny,Gentle breeze
+408,colonia,50.9333,6.95,6.360000000000014,73,20,1.03,DE,1682458403,Uncomfortable,Fair,Light air
+409,iskateley,67.6803,53.1512,-7.329999999999984,88,7,5.88,RU,1682458503,Uncomfortable,Sunny/Clear,Moderate breeze
+410,lakatoro,-16.0999,167.4164,27.79000000000002,72,85,2.05,VU,1682458504,Uncomfortable,Mostly cloudy,Light breeze
+411,pisco,-13.7,-76.2167,25.03000000000003,69,0,5.14,PE,1682458486,Uncomfortable,Sunny/Clear,Moderate breeze
+412,boa vista,2.8197,-60.6733,22.99000000000001,100,100,2.06,BR,1682458505,Uncomfortable,Overcast,Light breeze
+413,xinmin,41.9908,122.8253,2.5400000000000205,58,11,3.86,CN,1682458505,Uncomfortable,Fair,Gentle breeze
+414,fort st. john,56.2499,-120.8529,8.939999999999998,27,75,10.29,CA,1682458506,Comfortable,Mostly cloudy,Fresh breeze
+415,vicuna,-30.0319,-70.7081,27.650000000000034,41,86,1.65,CL,1682458506,Comfortable,Mostly cloudy,Light breeze
+416,kuqa,41.7278,82.9364,15.730000000000018,22,100,3.1,CN,1682458506,Comfortable,Overcast,Gentle breeze
+417,midelt,32.6852,-4.7451,20.600000000000023,30,19,0.9,MA,1682458507,Comfortable,Fair,Light air
+418,buala,-8.145,159.5921,28.220000000000027,76,84,2.12,SB,1682458508,Uncomfortable,Mostly cloudy,Light breeze
+419,enshi,30.3,109.4833,10.830000000000041,91,67,0.42,CN,1682458509,Uncomfortable,Partly sunny,Calm
+420,guiratinga,-16.3494,-53.7583,24.350000000000023,73,63,1.35,BR,1682458509,Uncomfortable,Partly sunny,Light air
+421,chernyshevskiy,63.0128,112.4714,-6.9599999999999795,97,100,1.77,RU,1682458510,Uncomfortable,Overcast,Light breeze
+422,sabac,44.7467,19.69,10.120000000000005,77,47,2.26,RS,1682458510,Uncomfortable,Partly cloudy,Light breeze
+423,arawa,-6.2132,155.5367,28.24000000000001,78,82,0.52,PG,1682458510,Uncomfortable,Mostly cloudy,Light air
+424,masterton,-40.9597,175.6575,11.560000000000002,91,88,3.82,NZ,1682458511,Uncomfortable,Mostly cloudy,Gentle breeze
+425,la trinitaria,16.1167,-92.05,28.03000000000003,34,17,2.32,MX,1682458511,Comfortable,Fair,Light breeze
+426,dwarka,22.2394,68.9678,26.49000000000001,73,58,4.82,IN,1682458512,Uncomfortable,Partly cloudy,Gentle breeze
+427,aykhal,66.0,111.5,-9.699999999999989,96,100,3.26,RU,1682458257,Uncomfortable,Overcast,Gentle breeze
+428,forster,-32.1667,152.5167,13.54000000000002,99,95,1.5,AU,1682458271,Uncomfortable,Overcast,Light air
+429,turbat,26.0023,63.044,25.360000000000014,45,92,2.38,PK,1682458514,Comfortable,Overcast,Light breeze
+430,charleston,32.7766,-79.9309,23.100000000000023,64,20,6.69,US,1682458387,Uncomfortable,Fair,Moderate breeze
+431,woolgoolga,-30.1106,153.2007,17.25,69,89,4.03,AU,1682458515,Uncomfortable,Mostly cloudy,Gentle breeze
+432,lazaro cardenas,17.9583,-102.2,28.700000000000045,57,4,6.07,MX,1682458515,Uncomfortable,Sunny/Clear,Moderate breeze
+433,trincomalee,8.5711,81.2335,27.900000000000034,79,100,1.14,LK,1682458516,Uncomfortable,Overcast,Light air
+434,nanto-shi,36.5692,136.9116,14.730000000000018,72,100,1.34,JP,1682458516,Uncomfortable,Overcast,Light air
+435,egilsstadir,65.2653,-14.3948,-2.0499999999999545,86,100,4.63,IS,1682458516,Uncomfortable,Overcast,Gentle breeze
+436,barabai,-2.5833,115.3833,23.860000000000014,96,93,0.24,ID,1682458517,Uncomfortable,Overcast,Calm
+437,zhangjiakou shi xuanhua qu,40.6103,115.0447,5.610000000000014,17,70,1.49,CN,1682458517,Comfortable,Partly sunny,Light air
+438,kill devil hills,36.0307,-75.676,15.550000000000011,58,0,5.14,US,1682458294,Uncomfortable,Sunny/Clear,Moderate breeze
+439,karpenisi,38.9167,21.7833,6.670000000000016,75,85,0.45,GR,1682458518,Uncomfortable,Mostly cloudy,Calm
+440,ebon,4.582,168.6964,27.810000000000002,79,100,7.59,MH,1682458518,Uncomfortable,Overcast,Moderate breeze
+441,aver-o-mar,41.4078,-8.7812,17.400000000000034,94,0,2.06,PT,1682458519,Uncomfortable,Sunny/Clear,Light breeze
+442,masuguru,-11.3667,38.4167,19.710000000000036,87,0,0.67,TZ,1682458519,Uncomfortable,Sunny/Clear,Light air
+443,raahe,64.6833,24.4833,2.0500000000000114,99,100,6.24,FI,1682458269,Uncomfortable,Overcast,Moderate breeze
+444,las tablas,7.7667,-80.2833,28.430000000000007,99,91,2.66,PA,1682458520,Uncomfortable,Overcast,Light breeze
+445,mukalla,14.5425,49.1242,27.55000000000001,74,12,2.21,YE,1682458520,Uncomfortable,Fair,Light breeze
+446,road town,18.4167,-64.6167,28.05000000000001,65,20,1.54,VG,1682458520,Uncomfortable,Fair,Light breeze
+447,chumphon,10.3333,98.8333,22.32000000000005,90,100,0.38,TH,1682458521,Uncomfortable,Overcast,Calm
+448,kharan,28.5833,65.4167,23.670000000000016,47,100,4.61,PK,1682458521,Comfortable,Overcast,Gentle breeze
+449,posse,-14.0931,-46.3694,23.420000000000016,50,18,2.41,BR,1682458521,Comfortable,Fair,Light breeze
+450,bahia de kino,28.8333,-111.9333,30.400000000000034,56,0,5.72,MX,1682458522,Uncomfortable,Sunny/Clear,Moderate breeze
+451,mount pearl,47.5166,-52.7813,1.6400000000000432,96,100,6.69,CA,1682458261,Uncomfortable,Overcast,Moderate breeze
+452,fiambala,-27.6871,-67.6149,20.110000000000014,42,2,2.96,AR,1682458522,Comfortable,Sunny/Clear,Light breeze
+453,goundam,16.4145,-3.6708,30.03000000000003,10,0,4.56,ML,1682458523,Comfortable,Sunny/Clear,Gentle breeze
+454,machico,32.7,-16.7667,20.950000000000045,72,20,1.54,PT,1682458523,Uncomfortable,Fair,Light breeze
+455,greymouth,-42.4667,171.2,12.360000000000014,73,80,5.01,NZ,1682458524,Uncomfortable,Mostly cloudy,Moderate breeze
+456,anshun,26.25,105.9333,11.439999999999998,72,94,1.3,CN,1682458524,Uncomfortable,Overcast,Light air
+457,korla,41.7597,86.1469,14.660000000000025,37,100,4.46,CN,1682458524,Comfortable,Overcast,Gentle breeze
+458,kostanay,53.1667,63.5833,7.160000000000025,65,0,2.0,KZ,1682458524,Uncomfortable,Sunny/Clear,Light breeze
+459,pinheiro machado,-31.5783,-53.3811,16.700000000000045,95,98,1.81,BR,1682458525,Uncomfortable,Overcast,Light breeze
+460,colonia menno,-22.3667,-59.8167,21.560000000000002,83,61,3.28,PY,1682458525,Uncomfortable,Partly sunny,Gentle breeze
+461,kourou,5.1552,-52.6478,25.03000000000003,91,58,3.1,GF,1682458526,Uncomfortable,Partly cloudy,Gentle breeze
+462,mirador,-6.3708,-44.3631,25.360000000000014,68,98,0.51,BR,1682458526,Uncomfortable,Overcast,Light air
+463,magadan,59.5667,150.8,0.03000000000002956,74,63,3.4,RU,1682458526,Uncomfortable,Partly sunny,Gentle breeze
+464,yaren,-0.5472,166.916,28.27000000000004,75,49,6.51,NR,1682458527,Uncomfortable,Partly cloudy,Moderate breeze
+465,conduaga,8.862,117.4893,25.55000000000001,85,100,1.56,PH,1682458528,Uncomfortable,Overcast,Light breeze
+466,san julian,21.0167,-102.1667,27.410000000000025,7,65,8.45,MX,1682458528,Comfortable,Partly sunny,Fresh breeze
+467,tanjung pandan,-2.75,107.65,24.939999999999998,88,100,0.48,ID,1682458529,Uncomfortable,Overcast,Calm
+468,payson,40.0444,-111.7321,8.560000000000002,70,100,6.69,US,1682457961,Uncomfortable,Overcast,Moderate breeze
+469,inari,68.906,27.0288,-1.8899999999999864,88,100,1.6,FI,1682458530,Uncomfortable,Overcast,Light breeze
+470,gouyave,12.1646,-61.7296,26.430000000000007,83,40,7.72,GD,1682458530,Uncomfortable,Partly cloudy,Moderate breeze
+471,tete,-16.1564,33.5867,21.05000000000001,83,20,2.06,MZ,1682458531,Uncomfortable,Fair,Light breeze
+472,puerto madryn,-42.7692,-65.0385,16.49000000000001,52,100,4.44,AR,1682458257,Comfortable,Overcast,Gentle breeze
+473,kamakhyanagar,20.9333,85.55,24.460000000000036,78,97,0.1,IN,1682458532,Uncomfortable,Overcast,Calm
+474,shangzhi,45.2167,127.9667,2.490000000000009,71,14,1.18,CN,1682458532,Uncomfortable,Fair,Light air
+475,araruna,-6.5583,-35.7417,21.410000000000025,94,100,2.46,BR,1682458533,Uncomfortable,Overcast,Light breeze
+476,nakamura,32.9833,132.9333,14.140000000000043,93,100,4.21,JP,1682458534,Uncomfortable,Overcast,Gentle breeze
+477,newport,51.5877,-2.9984,8.520000000000039,70,100,2.22,GB,1682458534,Uncomfortable,Overcast,Light breeze
+478,bataipora,-22.2953,-53.2711,20.650000000000034,91,53,2.48,BR,1682458535,Uncomfortable,Partly cloudy,Light breeze
+479,goure,13.9835,10.2704,30.5,19,4,1.59,NE,1682458535,Comfortable,Sunny/Clear,Light breeze
+480,fengrun,39.8333,118.1167,6.390000000000043,65,3,0.57,CN,1682458538,Uncomfortable,Sunny/Clear,Light air
+481,zag,46.9441,99.165,0.30000000000001137,33,0,8.02,MN,1682458538,Comfortable,Sunny/Clear,Fresh breeze
+482,melo,-32.3667,-54.1833,17.53000000000003,93,100,1.79,UY,1682458539,Uncomfortable,Overcast,Light breeze
+483,prachuap khiri khan,12.2167,99.75,22.730000000000018,93,89,1.18,TH,1682458539,Uncomfortable,Mostly cloudy,Light air
+484,la'ie,21.6477,-157.9253,28.980000000000018,79,100,5.74,US,1682458539,Uncomfortable,Overcast,Moderate breeze
+485,lautoka,-17.6167,177.4667,27.920000000000016,69,20,0.0,FJ,1682458540,Uncomfortable,Fair,
+486,roosevelt,33.9668,-103.4505,23.930000000000007,12,87,6.17,US,1682458434,Comfortable,Mostly cloudy,Moderate breeze
+487,lotoshino,56.2267,35.6414,10.870000000000005,66,100,0.99,RU,1682458542,Uncomfortable,Overcast,Light air
+488,tortoli,39.9256,9.6572,18.900000000000034,48,0,5.66,IT,1682458542,Comfortable,Sunny/Clear,Moderate breeze
+489,vadso,70.0744,29.7487,-1.509999999999991,74,20,1.54,NO,1682458542,Uncomfortable,Fair,Light breeze
+490,mirny,62.5353,113.9611,-4.310000000000002,92,100,1.79,RU,1682458543,Uncomfortable,Overcast,Light breeze
+491,hesperia,34.4264,-117.3009,27.480000000000018,13,2,1.34,US,1682458544,Comfortable,Sunny/Clear,Light air
+492,champerico,14.3,-91.9167,36.30000000000001,59,51,6.16,GT,1682458544,Uncomfortable,Partly cloudy,Moderate breeze
+493,pailon,-17.65,-62.75,26.5,84,42,0.6,BO,1682458545,Uncomfortable,Partly cloudy,Light air
+494,mirnyy,62.5353,113.9611,-4.310000000000002,92,100,1.79,RU,1682458543,Uncomfortable,Overcast,Light breeze
+495,kostomuksha,64.571,30.5767,-0.2699999999999818,98,100,4.45,RU,1682458546,Uncomfortable,Overcast,Gentle breeze
+496,pyt-yakh,60.7499,72.8582,2.2600000000000477,99,86,4.25,RU,1682458294,Uncomfortable,Mostly cloudy,Gentle breeze
+497,fisterra,42.9049,-9.2629,16.53000000000003,98,100,4.01,ES,1682458547,Uncomfortable,Overcast,Gentle breeze
+498,ivdel',60.6911,60.4206,8.670000000000016,92,73,1.12,RU,1682458549,Uncomfortable,Mostly cloudy,Light air
+499,keminmaa,65.8596,24.8228,0.8700000000000045,93,100,6.17,FI,1682458549,Uncomfortable,Overcast,Moderate breeze
+500,badou,7.5833,0.6,24.660000000000025,89,100,0.87,TG,1682458549,Uncomfortable,Overcast,Light air
+501,monrovia,6.3005,-10.7969,27.870000000000005,83,99,3.52,LR,1682458550,Uncomfortable,Overcast,Gentle breeze
+502,bayganin,48.6947,55.8742,17.340000000000032,26,100,10.99,KZ,1682458551,Comfortable,Overcast,Strong breeze
+503,san luis,-33.295,-66.3356,17.99000000000001,52,80,1.56,AR,1682458553,Comfortable,Mostly cloudy,Light breeze
+504,tamiahua,21.2667,-97.45,27.07000000000005,69,81,5.05,MX,1682458554,Uncomfortable,Mostly cloudy,Moderate breeze
+505,sault ste. marie,46.5168,-84.3333,4.310000000000002,70,0,9.26,CA,1682458382,Uncomfortable,Sunny/Clear,Fresh breeze
+506,novyy urengoy,66.0833,76.6333,-11.129999999999995,95,76,3.33,RU,1682458554,Uncomfortable,Mostly cloudy,Gentle breeze
+507,slyudyanka,51.6594,103.7061,-1.0199999999999818,88,100,3.69,RU,1682458555,Uncomfortable,Overcast,Gentle breeze
+508,gaspe,48.8334,-64.4819,7.1200000000000045,65,75,4.63,CA,1682458299,Uncomfortable,Mostly cloudy,Gentle breeze
+509,brush,40.2589,-103.6238,9.620000000000005,81,100,10.8,US,1682458555,Uncomfortable,Overcast,Strong breeze
+510,sarmiento,-45.5882,-69.07,13.080000000000041,63,100,1.8,AR,1682458557,Uncomfortable,Overcast,Light breeze
+511,willows,39.5243,-122.1936,28.58000000000004,26,69,7.06,US,1682458557,Comfortable,Partly sunny,Moderate breeze
+512,timbuktu,16.7735,-3.0074,29.879999999999995,9,0,5.33,ML,1682458558,Comfortable,Sunny/Clear,Moderate breeze
+513,arraial do cabo,-22.9661,-42.0278,23.920000000000016,88,20,6.69,BR,1682458558,Uncomfortable,Fair,Moderate breeze
+514,broome,42.2506,-75.833,12.230000000000018,41,100,1.54,US,1682458558,Comfortable,Overcast,Light breeze
+515,lata,40.1629,-8.3327,16.560000000000002,91,11,0.91,PT,1682458559,Uncomfortable,Fair,Light air
+516,newman,37.3138,-121.0208,27.160000000000025,29,15,3.13,US,1682458342,Comfortable,Fair,Gentle breeze
+517,chamba,32.5667,76.1333,15.370000000000005,51,17,4.27,IN,1682458559,Comfortable,Fair,Gentle breeze
+518,benavente,42.0025,-5.6783,14.870000000000005,70,100,2.92,ES,1682458561,Uncomfortable,Overcast,Light breeze
+519,dubbo,-32.25,148.6167,10.07000000000005,93,8,4.12,AU,1682458561,Uncomfortable,Sunny/Clear,Gentle breeze
+520,bassar,9.25,0.7833,26.310000000000002,65,99,1.93,TG,1682458562,Uncomfortable,Overcast,Light breeze
+521,kota bharu,6.1333,102.2386,26.970000000000027,89,20,1.03,MY,1682458562,Uncomfortable,Fair,Light air
+522,bandar abbas,27.1865,56.2808,24.99000000000001,73,47,2.06,IR,1682458506,Uncomfortable,Partly cloudy,Light breeze
+523,tadine,-21.55,167.8833,25.53000000000003,79,100,4.95,NC,1682458563,Uncomfortable,Overcast,Gentle breeze
+524,broken hill,-31.95,141.4333,18.140000000000043,50,32,5.18,AU,1682458564,Comfortable,Partly cloudy,Moderate breeze
+525,lluta,-16.0147,-72.0142,11.520000000000039,72,58,2.69,PE,1682458564,Uncomfortable,Partly cloudy,Light breeze
+526,zhongshan,21.3226,110.5829,20.04000000000002,74,100,3.68,CN,1682458564,Uncomfortable,Overcast,Gentle breeze
+527,songyuan,45.1171,124.8568,2.4700000000000273,42,1,1.6,CN,1682458565,Comfortable,Sunny/Clear,Light breeze
+528,cova figueira,14.8905,-24.2934,20.980000000000018,76,12,5.91,CV,1682458565,Uncomfortable,Fair,Moderate breeze
+529,quatre cocos,-20.2078,57.7625,24.060000000000002,85,34,2.55,MU,1682458565,Uncomfortable,Partly cloudy,Light breeze
+530,tidjikja,18.5564,-11.4271,31.879999999999995,13,11,5.39,MR,1682458566,Comfortable,Fair,Moderate breeze
+531,kanniyakumari,8.0833,77.5667,27.450000000000045,79,89,0.72,IN,1682458566,Uncomfortable,Mostly cloudy,Light air
+532,letterkenny,54.95,-7.7333,5.490000000000009,81,100,2.39,IE,1682458566,Uncomfortable,Overcast,Light breeze
+533,tamanrasset,22.785,5.5228,26.950000000000045,10,0,2.57,DZ,1682458308,Comfortable,Sunny/Clear,Light breeze
+534,niquelandia,-14.4739,-48.4597,24.189999999999998,65,22,1.2,BR,1682458567,Uncomfortable,Mostly sunny,Light air
+535,oum hadjer,13.2954,19.6966,33.01000000000005,18,75,2.48,TD,1682458567,Comfortable,Mostly cloudy,Light breeze
+536,figuig (centre),32.1089,-1.2286,25.430000000000007,19,0,2.35,MA,1682458568,Comfortable,Sunny/Clear,Light breeze
+537,caleta de carquin,-11.0925,-77.6267,25.32000000000005,73,89,5.53,PE,1682458568,Uncomfortable,Mostly cloudy,Moderate breeze
+538,lorengau,-2.0226,147.2712,29.04000000000002,74,54,3.49,PG,1682458287,Uncomfortable,Partly cloudy,Gentle breeze
+539,siparia,10.1333,-61.5,24.900000000000034,91,100,3.05,TT,1682458569,Uncomfortable,Overcast,Gentle breeze
+540,tela,15.7833,-87.45,31.970000000000027,70,20,3.09,HN,1682458570,Uncomfortable,Fair,Gentle breeze
+541,vavatenina,-17.4667,49.2,21.370000000000005,97,22,1.15,MG,1682458570,Uncomfortable,Mostly sunny,Light air
+542,kailua-kona,19.6406,-155.9956,26.980000000000018,76,20,3.6,US,1682458460,Uncomfortable,Fair,Gentle breeze
+543,quellon,-43.1167,-73.6167,10.140000000000043,100,100,0.0,CL,1682458571,Uncomfortable,Overcast,
+544,mugia,43.1041,-9.2179,16.620000000000005,98,100,4.29,ES,1682458571,Uncomfortable,Overcast,Gentle breeze
+545,ugoofaaru,5.6667,73.0,28.75,72,62,4.27,MV,1682458571,Uncomfortable,Partly sunny,Gentle breeze
+546,upington,-28.4478,21.2561,17.210000000000036,48,0,2.06,ZA,1682458572,Comfortable,Sunny/Clear,Light breeze
+547,jamalpur,24.9167,89.9333,24.80000000000001,44,57,1.55,BD,1682458572,Comfortable,Partly cloudy,Light breeze
+548,ormara,25.2088,64.6357,26.090000000000032,63,96,3.76,PK,1682458572,Uncomfortable,Overcast,Gentle breeze
+549,howrah,22.5892,88.3103,27.0,83,40,0.0,IN,1682458573,Uncomfortable,Partly cloudy,
+550,oranjemund,-28.55,16.4333,14.28000000000003,94,4,2.92,,1682458574,Uncomfortable,Sunny/Clear,Light breeze
+551,micheweni,-4.9667,39.8333,26.010000000000048,88,67,4.72,TZ,1682458574,Uncomfortable,Partly sunny,Gentle breeze
+552,weyburn,49.6668,-103.8511,7.1200000000000045,53,99,4.63,CA,1682458574,Comfortable,Overcast,Gentle breeze
+553,matane,48.8286,-67.522,5.680000000000007,73,96,3.82,CA,1682458575,Uncomfortable,Overcast,Gentle breeze
+554,peace river,56.2501,-117.286,11.170000000000016,25,75,9.77,CA,1682458575,Comfortable,Mostly cloudy,Fresh breeze
+555,san andres,12.5847,-81.7006,30.010000000000048,58,20,3.09,CO,1682458576,Uncomfortable,Fair,Gentle breeze
+556,tuyen quang,21.8233,105.2181,19.600000000000023,89,100,0.46,VN,1682458581,Uncomfortable,Overcast,Calm
+557,thinadhoo,0.5333,72.9333,28.480000000000018,78,100,5.24,MV,1682458581,Uncomfortable,Overcast,Moderate breeze
+558,hilo,19.7297,-155.09,29.04000000000002,67,0,4.63,US,1682458507,Uncomfortable,Sunny/Clear,Gentle breeze
+559,guajara mirim,-10.7828,-65.3394,24.75,97,100,0.77,BR,1682458582,Uncomfortable,Overcast,Light air
+560,al muwayh,22.4333,41.7583,23.260000000000048,53,4,2.8,SA,1682458583,Comfortable,Sunny/Clear,Light breeze
+561,ilorin,8.5,4.55,25.590000000000032,70,80,3.2,NG,1682458583,Uncomfortable,Mostly cloudy,Gentle breeze
+562,bernau bei berlin,52.6798,13.5871,7.7000000000000455,57,27,4.65,DE,1682458313,Uncomfortable,Mostly sunny,Gentle breeze
+563,sechura,-5.5569,-80.8222,28.510000000000048,62,84,4.84,PE,1682458585,Uncomfortable,Mostly cloudy,Gentle breeze
+564,nizhneudinsk,54.9076,99.0276,-2.349999999999966,65,100,5.22,RU,1682458585,Uncomfortable,Overcast,Moderate breeze
+565,pointe-noire,-4.7761,11.8635,26.100000000000023,86,100,2.55,CG,1682458585,Uncomfortable,Overcast,Light breeze
+566,canutama,-6.5339,-64.3831,24.700000000000045,92,63,0.34,BR,1682458586,Uncomfortable,Partly sunny,Calm
+567,dryden,49.7833,-92.7503,6.160000000000025,33,40,2.57,CA,1682458586,Comfortable,Partly cloudy,Light breeze
+568,nantucket,41.2835,-70.0995,13.080000000000041,87,20,3.09,US,1682458586,Uncomfortable,Fair,Gentle breeze
+569,nova vicosa,-17.8919,-39.3719,24.670000000000016,83,6,2.59,BR,1682458587,Uncomfortable,Sunny/Clear,Light breeze
+570,grand baie,-20.0182,57.5802,24.260000000000048,84,54,2.24,MU,1682458587,Uncomfortable,Partly cloudy,Light breeze
+571,ilha de mocambique,-15.0342,40.7358,26.170000000000016,72,61,6.74,MZ,1682458587,Uncomfortable,Partly sunny,Moderate breeze
+572,cabinda,-5.55,12.2,26.24000000000001,90,100,2.18,AO,1682458588,Uncomfortable,Overcast,Light breeze
+573,lihue,21.9789,-159.3672,27.58000000000004,69,100,7.2,US,1682458589,Uncomfortable,Overcast,Moderate breeze
+574,haiku-pauwela,20.9219,-156.3051,27.010000000000048,57,75,5.14,US,1682458401,Uncomfortable,Mostly cloudy,Moderate breeze
+575,illela,13.7292,5.2975,32.44,13,11,2.74,NG,1682458590,Comfortable,Fair,Light breeze
+576,lospalos,-8.5186,127.0025,22.200000000000045,96,92,1.66,TL,1682458591,Uncomfortable,Overcast,Light breeze
+577,orthez,43.4884,-0.7724,16.710000000000036,81,100,2.18,FR,1682458591,Uncomfortable,Overcast,Light breeze
+578,barcelos,41.5388,-8.6151,17.180000000000007,93,100,0.53,PT,1682458592,Uncomfortable,Overcast,Light air
+579,veraval,20.9,70.3667,26.30000000000001,73,24,4.9,IN,1682458593,Uncomfortable,Mostly sunny,Gentle breeze
+580,chapada dos guimaraes,-15.4606,-55.7497,19.810000000000002,75,8,1.04,BR,1682458593,Uncomfortable,Sunny/Clear,Light air
