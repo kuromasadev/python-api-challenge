@@ -3,13 +3,13 @@
 
 # **Exploring the relationship between weather variables and latitudes of cities around the world**
 
-![](output_data\Fig1.png)
+![](WeatherPy/output_data/Fig1.png)
 
-![](output_data\Fig2.png)
+![](WeatherPy/output_data/Fig2.png)
 
-![](output_data\Fig3.png)
+![](WeatherPy/output_data/Fig3.png)
 
-![](output_data\Fig4.png)
+![](WeatherPy/output_data/Fig4.png)
 
 **Additional Category Sources** 
 
