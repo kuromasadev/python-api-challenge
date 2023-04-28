@@ -23,6 +23,6 @@
 
 ## VacationPy
 
-![](WeatherPy\output_data\FigBA.PNG)
+![](WeatherPy/output_data/FigBA.PNG)
 
-![](WeatherPy\output_data\FigBB.PNG)
+![](WeatherPy/output_data/FigBB.PNG)
